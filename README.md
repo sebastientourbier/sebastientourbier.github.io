@@ -1,6 +1,6 @@
 # sebastientourbier.github.io
 
-This is personal website of Sebastien Tourbier.
+This is my personal website.
 
 
 ## Credits
